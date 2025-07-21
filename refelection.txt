@@ -1,0 +1,2 @@
+accept text command translate to system and return the human readable result is a translate between human and the computer core, a simple communication of computer language, easily accessible >refelection.txt
+$ echo accept text command translate to system and return the human readable result is a translate between human and the computer core, a simple communication of computer language, easily accessible
